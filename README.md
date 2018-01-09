@@ -1,2 +1,3 @@
-0. Hello Ubuntu mandatory
-Ssh into your Ubuntu VM. What does the command uname prints when you run it without any option?
+1. Vagrant
+2. Emacs
+3. Vim
