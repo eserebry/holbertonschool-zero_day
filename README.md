@@ -1,1 +1,3 @@
-Create and setup your Git and Github account 
+1. Vagrant
+2. Emacs
+3. Vim
